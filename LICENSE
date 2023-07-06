@@ -1,6 +1,8 @@
+Note: This project is a React port of rrweb's original Svelte-based player, so it has been license under their original license.
+
 MIT License
 
-Copyright (c) 2023 Carbonate-dev
+Copyright (c) 2018 Contributors (https://github.com/rrweb-io/rrweb/graphs/contributors) and SmartX Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
